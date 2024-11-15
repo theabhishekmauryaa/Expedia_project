@@ -1,6 +1,7 @@
 # Expedia_project [https://www.expedia.com/]
 
 ### Test Plan for Expedia Website
+[Test_Plan_Document_for_Expedia.docx](https://github.com/user-attachments/files/17771085/Test_Plan_Document_for_Expedia.docx)
 
 **Project Name:** Expedia Website  
 **Test Plan Version:** 1.0  
